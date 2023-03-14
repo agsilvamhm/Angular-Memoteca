@@ -1,0 +1,22 @@
+{
+  "pensamentos":[
+    {
+      "id":1,
+      "conteudo":"Que bom que você veio.",
+      "autoria": "Nay",
+      "modelo":"modelo1"
+    },
+    {
+      "id":2,
+      "conteudo":"Seja discreto e silencie os planos, a plateia não vê o ensaio, ela assiste ao show.",
+      "autoria": "Dev Alura",
+      "modelo":"modelo2"
+    },
+    {
+       "id":3,
+      "conteudo":"Nem tudo o que é lícito é honesto e nem tudo que é honesto é lícito.",
+      "autoria": "Desenvolvedor",
+       "modelo":"modelo3"
+    }
+  ]
+}
