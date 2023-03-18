@@ -29,11 +29,13 @@ export class EditarPensamentoComponent implements OnInit {
   }
 
   editarPensamento(){
-
+    this.service.editar(this.pensamento).subscribe(() => {
+      this.router.navigate(['/listarPensamento'])
+    })
   }
 
   cancelarPensamento(){
-
+    this.router.navigate(['/listarPensamento'])
   }
 
 }
