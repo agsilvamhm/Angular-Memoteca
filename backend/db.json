@@ -11,6 +11,54 @@
       "conteudo": "Nem tudo o que é lícito é honesto e nem tudo que é honesto é lícito.",
       "autoria": "Desenvolvedor",
       "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Por vezes sentimos que aquilo que fazemos não é senão uma gota de água no mar. Mas o mar seria menor se lhe faltasse uma gota.",
+      "autoria": "Madre Teresa de Calcutá",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+      "autoria": "Roberto Shinyashiki",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
+      "autoria": "Cynthia Kersey",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "Se a sua vida for a melhor coisa que já te aconteceu, acredite, você tem mais sorte do que pode imaginar.",
+      "autoria": "Daniel Godri",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Quer você acredite que consiga fazer uma coisa ou não, você está certo.",
+      "autoria": "Henry Ford",
+      "modelo": "modelo3",
+      "id": 8
+    },
+    {
+      "conteudo": "Desconfie do destino e acredite em você. Gaste mais horas realizando que sonhando, fazendo que planejando, vivendo que esperando porque, embora quem quase morre esteja vivo, quem quase vive já morreu.",
+      "autoria": "Sarah Westphal",
+      "modelo": "modelo1",
+      "id": 9
+    },
+    {
+      "conteudo": "Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3",
+      "id": 10
+    },
+    {
+      "conteudo": "Se você quer um pedacinho do paraíso, acredite em Deus. Mas se você quer conquistar o mundo, acredite em você porque Deus já te deu tudo o que você precisa para você vencer.",
+      "autoria": "Augusto Branco",
+      "modelo": "modelo1",
+      "id": 11
     }
   ]
 }
