@@ -1,10 +1,7 @@
 import { PensamentoService } from './../pensamento.service';
 import { Component, OnInit } from '@angular/core';
-import { Pensamento } from '../pensamento';
 import { Router } from '@angular/router';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { maiusculoValidator } from 'src/app/funcoes/maiusculoValidator';
-
 
 @Component({
   selector: 'app-criar-pensamento',
@@ -50,5 +47,4 @@ export class CriarPensamentoComponent implements OnInit {
       return 'botao__desabilitado'
     }
   }
-
 }
