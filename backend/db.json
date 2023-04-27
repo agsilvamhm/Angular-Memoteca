@@ -25,14 +25,14 @@
       "conteudo": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
       "autoria": "Roberto Shinyashiki",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
       "autoria": "Cynthia Kersey",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 6
     },
     {

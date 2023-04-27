@@ -40,7 +40,7 @@ export class PensamentoComponent implements OnInit {
 
   atualizarFavoritos(){
     this.service.mudarFavorito(this.pensamento).subscribe(() => {
-      this.listaFavoritos.splice(this.listaFavoritos.indexOf(this.pensamento), 1)
-    });
+      this.listaFavoritos.splice(this.listaFavoritos.indexOf(this.pensamento),1)
+    })
   }
 }
